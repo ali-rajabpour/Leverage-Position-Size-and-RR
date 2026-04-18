@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be6ccb1-9e33-4140-b614-99c109024034" 
+       alt="FileFlow"
+       width="60%" />
+</p>
+
+
 # Leverage-Position-Size-and-RR
 
 By: Ali Rajabpour-Sanati
